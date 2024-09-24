@@ -1,0 +1,17 @@
+.section{
+
+    max-width: 400px;
+    margin: auto;
+    border: 1px solid black;
+
+}
+.item{
+    background-color: rgb(148, 148, 148);
+    margin: 5px;
+    font-size: 30px;
+    text-align: center;
+}
+.keven{
+    display: flex;
+    justify-content: space-evenly
+}

@@ -1,0 +1,13 @@
+.menu{
+background-color: black;
+color: white;
+}
+.menulista{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 800px;
+    margin: auto;
+    height: 50px;
+    align-items: center;
+}
